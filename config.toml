@@ -1,4 +1,4 @@
-baseURL = "/overview/"
+baseURL = "/"
 languageCode = "en-us"
 title = "3scale API Management"
 theme = "hyde-y"
