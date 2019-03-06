@@ -1,0 +1,21 @@
+[1-overview]
+    Name = "Overview"
+    URL = "/overview/"
+[2-try-it-out]
+    Name = "Try it out!"
+    URL = "/try-it-out/"
+[3-hello-world]
+    Name = "Hello, World!"
+    URL = "/hello-world/"
+[4-docs]
+    Name = "Docs and APIs"
+    URL = "/docs-and-apis/"
+[5-api-lifecycle]
+    Name = "API Lifecycle"
+    URL = "/api-lifecycle/"
+[6-help]
+    Name = "Help"
+    URL = "/help/"
+[7-community]
+    Name = "Community"
+    URL = "/community/"

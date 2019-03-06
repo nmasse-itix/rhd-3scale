@@ -1,0 +1,8 @@
+baseURL = "/overview/"
+languageCode = "en-us"
+title = "3scale API Management"
+theme = "hyde-y"
+
+[params]
+topline = "Take control of your APIs, with unmatched scale, performance and flexibility!"
+sidebar = "left"
